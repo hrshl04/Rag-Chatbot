@@ -28,20 +28,21 @@ Upload documents, generate embeddings, and chat with your files using local LLMs
 # 🛠 Tech Stack
 
 ## Frontend
-React.js
+React.js,
+
 CSS
 
 ## Backend
 
 🐍 Python
-🌐 Flask
+,Flask
 
 # AI / RAG
 
 Ollama
-LangChain
-ChromaDB
-Embeddings
+,LangChain
+,ChromaDB
+,Embeddings
 
 #  Project Structure
 
